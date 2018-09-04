@@ -1,0 +1,21 @@
+{
+  "name": "ptv-api",
+  "version": "0.0.1",
+  "description": "Client library for Public Transport Victoria timetable API (PTV API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "ptv-openapi.json",
+    "README.md"
+  ],
+  "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "swagger-client": "^3.8.15",
+    "urijs": "^1.19.1"
+  }
+}
