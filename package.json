@@ -11,6 +11,7 @@
     "ptv-openapi.json",
     "README.md"
   ],
+  "repo": "github:stevage/ptv-api-js",
   "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
   "license": "Apache-2.0",
   "dependencies": {
